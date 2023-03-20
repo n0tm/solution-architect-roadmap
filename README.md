@@ -2,7 +2,7 @@
 
 ## Books
 
-### Fundamentals of Software Architecture
+### [Fundamentals of Software Architecture](https://liteka.ru/english/library/4707-fundamentals-of-software-architecture#1)
 ![alt text](https://m.media-amazon.com/images/I/51qdlJ0V67L._SX258_BO1,204,203,200_.jpg)
 
 ### Documenting Software Architectures: Views and Beyond
